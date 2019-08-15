@@ -32,7 +32,7 @@ def text_replay(msg):
 
 
 def tuling_reply(msg):
-    # 494536  1a99a3a96f514eef9d1978692590c2f8
+    # 
     api_url = 'http://openapi.tuling123.com/openapi/api/v2'
     message = msg['Text']
     headers = {
